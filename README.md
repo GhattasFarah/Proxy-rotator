@@ -5,6 +5,8 @@ A proxy can hide the real Ip address of a web request, but the simplest way for 
 The following python script, rotates and hides your Ip address in the http request to allow you to bypass IP-based rate-limits for websites.
 
 ---
-###Output of script can be seen in image below:
+### Output of script can be seen in image below:
+<br>
+<br>
 <img width="317" alt="image" src="https://github.com/GhattasFarah/Proxy-rotator/assets/91408129/4281c033-4df1-45ef-9903-45bfb582add0">
 ---
