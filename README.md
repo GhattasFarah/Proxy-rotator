@@ -7,6 +7,4 @@ The following python script, rotates and hides your Ip address in the http reque
 ---
 ### Output of script can be seen in image below:
 <br>
-<br>
 <img width="317" alt="image" src="https://github.com/GhattasFarah/Proxy-rotator/assets/91408129/4281c033-4df1-45ef-9903-45bfb582add0">
----
